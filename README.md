@@ -2,26 +2,24 @@
 
 ### ☁️ نبذة عني
 - 🎓 مهندس تقني من **جامعة تعز** ومستفيد من باقة GitHub Student Developer.
-- 💻 شغوف بـ **الحوسبة السحابية (Cloud Computing)** وبناء البنى التحتية للمشاريع التقنية.
-- 🛠️ أركز حالياً على تطوير مهاراتي في إدارة السيرفرات، شبكات السحاب، وتقنيات الـ DevOps.
+- 💻 شغوف بـ **الحوسبة السحابية (Cloud Computing)** وتقنيات الـ DevOps.
+- 🛠️ أمتلك خبرة في بناء واجهات الويب وتطبيقات الجوال المرفوعة هنا في مستودعاتي.
 
-### 🛠️ التقنيات والمنصات التي أدرسها وأستخدمها
+### 🛠️ التقنيات ولغات البرمجة التي أستخدمها
 <p align="left">
-  <!-- منصات السحاب -->
-  <img src="https://skillicons.dev" />
+  <!-- منصات السحاب والـ DevOps -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
   <br><br>
-  <!-- لغات البرمجة وأدوات التطوير -->
-  <img src="https://skillicons.dev" />
+  <!-- لغات تطوير الويب والموبايل المرفوعة بحسابك -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-### 📊 إحصائيات GitHub والنشاط ثلاثي الأبعاد
+### 📊 إحصائيات الحساب الرسمية
 <p align="left">
-  <img src="https://vercel.app" alt="Hussam Stats" />
+  <img src="https://toycloud.org" alt="Hussam Stats" />
 </p>
-
-<p align="left">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
-#### 🗺️ خريطة المساهمات ثلاثية الأبعاد:
-![](https://vercel.app)
