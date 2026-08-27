@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 مرحباً بك، أنا حسام أحمد!
 
-<!--
-**hussam461/hussam461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ نبذة عني
+- 🎓 مهندس تقني من **جامعة تعز** ومستفيد من باقة GitHub Student Developer.
+- 💻 شغوف بـ **الحوسبة السحابية (Cloud Computing)** وبناء البنى التحتية للمشاريع التقنية.
+- 🛠️ أركز حالياً على تطوير مهاراتي في إدارة السيرفرات، شبكات السحاب، وتقنيات الـ DevOps.
 
-Here are some ideas to get you started:
+### 🛠️ التقنيات والمنصات التي أدرسها وأستخدمها
+<p align="left">
+  <!-- منصات السحاب -->
+  <img src="https://skillicons.dev" />
+  <br><br>
+  <!-- لغات البرمجة وأدوات التطوير -->
+  <img src="https://skillicons.dev" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 إحصائيات GitHub والنشاط ثلاثي الأبعاد
+<p align="left">
+  <img src="https://vercel.app" alt="Hussam Stats" />
+</p>
+
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+#### 🗺️ خريطة المساهمات ثلاثية الأبعاد:
+![](https://vercel.app)
