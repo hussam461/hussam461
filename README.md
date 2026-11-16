@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hussam Ahmed
 
-### ☁️ Cloud Computing · ⚙️ DevOps · 🌐 Networking · 💻 Full-Stack · 📱 Flutter · 🖨️ 3D Printing
+### ☁️ Cloud Computing · ⚙️ DevOps · 🌐 Networking · 💻 Full-Stack · 📱 Flutter 
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,php,js,html,css,mysql,flutter,dart,python" />
